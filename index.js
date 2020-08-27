@@ -1,4 +1,4 @@
-const client = require("discord-rich-presence")("748536274452873327");
+const client = require("discord-rich-presence")(yourclientid);
 const { F1TelemetryClient, constants } = require("f1-2020-client");
 const { app, BrowserWindow } = require("electron");
 
