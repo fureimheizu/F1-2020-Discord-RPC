@@ -16,10 +16,3 @@ Not the best code, still needs to be polished and more things need to be added.
 
 ##### Build
 `npm run package-win`
-
-#### Libraries used
-
-https://www.npmjs.com/package/discord-rich-presence
-https://www.npmjs.com/package/f1-2020-client
-https://www.electronjs.org/
-https://github.com/electron/electron-packager
