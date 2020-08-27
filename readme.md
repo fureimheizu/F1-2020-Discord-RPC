@@ -9,6 +9,8 @@ Simple Discord RPC client for the game F1 2020.
 
 Not the best code, still needs to be polished and more things need to be added.
 
+**Remember to set the Client ID of your RPC inside index.js**
+
 ##### Test the project
 `npm start`
 
